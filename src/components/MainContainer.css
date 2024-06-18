@@ -1,0 +1,15 @@
+.mainContainer{
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    align-items: center;
+    width: 1110px;
+    height: 161px;
+    background-color: rgb(248, 246, 246);
+    background-image: none;
+    margin-right: auto;
+    margin-left: auto;
+    bottom: 80px;
+    
+    border-radius: 15px;
+}
